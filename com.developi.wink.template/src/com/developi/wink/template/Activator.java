@@ -1,4 +1,4 @@
-package com.developi.demos.wink;
+package com.developi.wink.template;
 
 import org.osgi.framework.BundleActivator;
 import org.osgi.framework.BundleContext;

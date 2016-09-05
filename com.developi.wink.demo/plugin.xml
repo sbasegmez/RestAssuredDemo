@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+		id="twinkservlet"
+		name="twinkservlet"
+		point="org.eclipse.equinox.http.registry.servlets">
+		<servlet 
+			alias="/twink" 
+			load-on-startup="false"
+			class="com.developi.wink.demo.servlet.CustomWinkServlet">
+			<init-param
+				name="applicationConfigLocation"
+				value="/WEB-INF/wink_application">
+			</init-param>
+			<init-param
+				name="propertiesLocation"
+				value="/WEB-INF/wink.properties">
+			</init-param>
+        	<init-param name="DisableHttpMethodCheck" value="true"/>
+		</servlet>
+	</extension>
+</plugin>
