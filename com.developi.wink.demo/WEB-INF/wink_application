@@ -1,2 +1,6 @@
 com.developi.wink.demo.api.TestResource
 com.developi.wink.demo.api.ContactResource
+com.developi.wink.demo.api.v1.VersionRoot
+com.developi.wink.demo.api.v2.VersionRoot
+com.developi.wink.demo.api.v1.PingResource
+com.developi.wink.demo.api.v2.PingResource
