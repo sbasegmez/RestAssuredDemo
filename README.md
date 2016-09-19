@@ -1,6 +1,6 @@
 ## REST Assured Demo Project...
 
-This project is the Apache Wink Demo for the ICONUK 2016 session.
+This project is the Apache Wink Demo for the ICONUK 2016 session. Refer to [the slidedeck](https://speakerdeck.com/sbasegmez/iconuk-2016-rest-assured-freeing-your-domino-data-has-never-been-that-easy) for further info.
 
 This source repository contains two plugins. The contacts demo and the template plugin. This guide will outline basic steps to install these plugins and how to create your first Apache Wink plugin from the template.
 
