@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: WinkDemo1
-Bundle-SymbolicName: com.developi.demos.wink;singleton:=true
+Bundle-Name: WinkDemo
+Bundle-SymbolicName: com.developi.wink.demo;singleton:=true
 Bundle-Version: 1.0.0.qualifier
 Bundle-Activator: com.developi.wink.demo.Activator
 Bundle-Vendor: DEVELOPI
